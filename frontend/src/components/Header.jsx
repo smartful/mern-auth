@@ -14,7 +14,7 @@ const Header = () => {
                 <FaSignInAlt /> Sign In
               </Nav.Link>
               <Nav.Link href="/register">
-                <FaSignOutAlt /> Sign Up
+                <FaSignOutAlt /> Register
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
